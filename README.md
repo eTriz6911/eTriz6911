@@ -3,6 +3,7 @@ oi, meu nome é Beattriz
 Sou estudante do Alura
 
 Estou apredendo as seguintes Linguagens
+
 *Java
 *Scratch
 
