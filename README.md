@@ -1,6 +1,6 @@
 oi, meu nome é Beattriz
 
-Sou estudante de Alura
+Sou estudante do Alura
 
 Estou apredendo as seguintes Linguagens
 *Java
